@@ -95,3 +95,4 @@ Django — админка и ORM
 
 PostgreSQL — база данных
 
+asgiref.sync.sync_to_async — асинхронная работа с ORM
