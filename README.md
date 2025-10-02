@@ -82,9 +82,10 @@ Normativ1/
 
 ---
 
-## Запросы к БД
+## ORM через sync_to_async
 
-<img width="1153" height="859" alt="botn3" src="https://github.com/user-attachments/assets/8694f2a6-1663-4ec4-b7b0-03dc14488050" />
+<img width="1117" height="866" alt="image" src="https://github.com/user-attachments/assets/07ffd064-ca41-417a-ac32-7248f8674513" />
+
 
 
 
