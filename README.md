@@ -27,7 +27,7 @@
 ## 📂 Структура проекта
 Normativ1/
 - │── manage.py
-- │── Normativ1/  # Telegram-бот
+- │── Normativ2/  # Telegram-бот
 - │ └── settings.py # Настройки Django
 - │── core/
 - │ ├── models.py # Модель BotUser
