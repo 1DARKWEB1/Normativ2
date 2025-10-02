@@ -80,6 +80,14 @@ Normativ1/
 
 <img width="924" height="322" alt="botn2" src="https://github.com/user-attachments/assets/c3f6e027-861c-4447-8168-73e3b676ba83" />
 
+### Таблитца бд
+
+<img width="627" height="313" alt="image" src="https://github.com/user-attachments/assets/ecf48a33-fef9-4f51-a623-b078596265fc" />
+
+### Админка Джанго
+
+<img width="1470" height="706" alt="image" src="https://github.com/user-attachments/assets/c3d9f4b9-614f-4133-8eb7-f90869dfbea7" />
+
 ---
 
 ## ORM через sync_to_async
